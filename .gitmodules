@@ -1,0 +1,3 @@
+[submodule "afinn"]
+	path = afinn
+	url = git://github.com/fnielsen/afinn/
